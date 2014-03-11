@@ -1,0 +1,1 @@
+/home/dinesh/PycharmProjects/cursopython/backend/venv/requirements.txt
